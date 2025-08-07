@@ -1,0 +1,8 @@
+# Ignore Python cache and virtualenv
+__pycache__/
+*.py[cod]
+.env
+venv/
+
+# Ignore config file with secrets
+config.py
